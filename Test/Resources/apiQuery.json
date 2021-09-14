@@ -1,0 +1,7 @@
+{
+  "getToken": "/token/get?",
+  "getTests": "/test/get/json?",
+  "createTest": "/test/put?",
+  "addLog": "/test/put/log?",
+  "addScreen": "/test/put/attachment?"
+}
